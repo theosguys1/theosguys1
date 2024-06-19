@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Terabyte Technologies NZ</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="images/styles.css" type="text/css" />
+<style type="text/css">
+.auto-style1 {
+	margin-left: 101;
+}
+.auto-style2 {
+	font-family: Calibri;
+}
+.auto-style3 {
+	font-family: Calibri;
+	color: white;
+	font-size: xx-large;
+	font-weight: normal;
+}
+.auto-style4 {
+	font-size: medium;
+}
+.auto-style5 {
+	font-size: 12px;
+}
+</style>
+</head>
+
+<body>
+<div id="HEADER">
+	<h1 class="auto-style3" style="width: 275px"><em><strong>Terabyte 
+	Technologies NZ</strong></em></h1>
+	<p>New Zealand Owned and Operated! </p>
+</div>
+
+<div id="NAVIGATION">
+	<div id="BUTTONS" style="position: relative; left: -131px; top: 1px">
+		&nbsp;
+	</div>
+	<div id="TABS" style="width: 337px">
+		<ul>
+			<li><a href="home.html">Home</a></li>
+			<li><a href="services.html">Services</a></li>
+			<li><a href="contact.html">Contact Us</a></li>
+		</ul>
+	</div>
+</div>
+
+<div id="VISUAL">
+	<ul class="auto-style1" style="height: 82px; width: 393px">
+		<li class="PhraseOne" style="font-size: medium; font-family: Calibri; height: 41px; z-index: 1; width: 393px; position: relative; top: 14px; left: -20px">
+		Stop spending hours looking for the right repair shop, Terabyte 
+		Technologies can help!</li>
+	</ul>
+	<p>&nbsp;</p>
+</div>
+
+<!-- #BeginEditable "content" -->
+
+<div id="CONTENT">
+	<div id="LEFTBOX">
+		
+	<h1>Site News</h1>
+	<div>
+		<p><span class="Date" style="font-size: 12px">09/06/24:</span><span class="auto-style5"> Webpage updated, Services page 
+		added.</span></p>
+		<p><span class="Date" style="font-size: 12px">05/06/24:</span><span class="auto-style5"> Webpage updated</span></p>
+		<p><span class="Date" style="font-size: 12px">05/06/24:</span><span class="auto-style5"> Webpage updated</span></p>
+	</div>
+  </div>
+
+	
+  <div id="TEXT" style="left: 3px; top: 0px">
+		
+	<ul class="Path">
+	  <li><a href="#">Home</a></li>
+	  <li>Welcome</li>
+	</ul>
+	
+	<h1>&nbsp; You should choose us over others because...</h1>
+	
+	  <ul class="auto-style4">
+		  <li class="auto-style2">We have experienced technicians</li>
+		  <li class="auto-style2">We have low pricing</li>
+		  <li class="auto-style2">We only use genuine parts</li>
+		  <li class="auto-style2">We have high-quality workmanship</li>
+		  <li class="auto-style2">We are locally owned and operated</li>
+	  </ul>
+	<p>&nbsp;</p>
+	<h1>&nbsp;</h1>
+	  <p>&nbsp;</p>
+	<p>&nbsp;</p>
+  </div>
+</div>
+
+<!-- #EndEditable -->
+
+<div id="FOOTER">
+	<div id="COPYRIGHT">© 2024, Terabyte Technologies NZ</div>
+	<div id="LINKS">
+		<ul>
+			<li style="height: 15px"><a href="http://home.html">Home</a></li>
+			<li><a href="services.html">Services</a></li>
+			<li><a href="contact.html">&nbsp;Contact Us</a></li>
+		</ul>
+	</div>
+
+</div>
+
+</body>
+</html>
